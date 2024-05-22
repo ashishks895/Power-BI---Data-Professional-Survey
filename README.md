@@ -28,6 +28,19 @@ The dataset includes responses from professionals working with data, covering va
 1. Clone the repository: `git clone https://github.com/ashishks895/Power-BI---Data-Professional-Survey.git`
 2. Open the `.pbix` file in Power BI Desktop to explore the visualizations and insights.
 
-## Contact
-For any questions or feedback, feel free to contact me at [your email].
+![image](https://github.com/ashishks895/Power-BI---Data-Professional-Survey/assets/83638970/20723fbf-7787-4eb1-ac62-b5b380d30201)
+
+
+
+SOME FINAL INSIGHTS:
+- Survey Participant Profile:
+The survey primarily targeted data analysts, indicating their dominant representation among the respondents. However, professionals from various data-related fields also participated in the survey, providing a diverse range of perspectives.
+- Salary Disparities:
+Professionals based in the United States reported higher salaries compared to counterparts from other countries. Furthermore, individuals in the United States expressed greater satisfaction with their salary and work-life balance, suggesting a potential correlation between higher compensation and overall job contentment.
+- Prevalence of Python:
+Python emerged as the predominant programming language among individuals working with data or pursuing careers in data-related fields. Its extensive usage demonstrates its versatility and popularity as a tool for data analysis and manipulation.
+- Salary Distribution by Roles:
+Among the different roles surveyed, data scientists were found to be the highest earners, followed by data architects and then data engineers. This finding underscores the increasing demand and value placed on specialized data science skills and expertise within the job market.
+- Gender and Salary:
+Although the survey sample was predominantly male, the analysis revealed that women, on average, reported slightly higher salaries than their male counterparts. This finding suggests progress in reducing gender-based pay gaps within the data profession.
 
